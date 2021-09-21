@@ -68,7 +68,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background: url(/images/home_background.jpg) no-repeat center center;
+    background: url(images/home_background.jpg) no-repeat center center;
     height: 80%;
     width: 100%;
     top: 0px;
@@ -128,7 +128,7 @@ html{
 
 /* Club-container */
 .bgclub{
-    background-image: url(/images/acllub.jpg);
+    background-image: url(images/acllub.jpg);
     position: relative;
     height: 400px;
     background-size: cover;
@@ -253,7 +253,7 @@ html{
 } */
 
 .app{
-    background-image: url(/images/appbg.jpg);
+    background-image: url(images/appbg.jpg);
     position: relative;
     height: 400px;
     background-size: cover;
